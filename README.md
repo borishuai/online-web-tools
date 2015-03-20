@@ -1,5 +1,5 @@
 # online-web-tools
-收集了一些比较实用的Web在线工具。
+收集了一些比较实用的Web在线工具，可以极大的方便我们前端开发，欢迎大家补充。
 
 ## [Online JavaScript Beautifier](http://jsbeautifier.org/)
 可以对JavaScript代码进行格式化，以方便阅读，当阅读别人格式比较乱的代码时尤其有用。
@@ -22,5 +22,15 @@
 ## [百度统计流量研究院](http://tongji.baidu.com/data/)
 这是百度基于百度统计所覆盖的超过150万的站点的数据产生的报告数据，对于前端开发来说比较有用的数据主要包括：浏览器市场份额，分辨率使用情况，移动设备品牌占比，移动设备市场份额。这些数据有助于我们如何做浏览器兼容性测试，如何根据不同的分辨率做响应式开发等。比如IE6和IE7在中国的市场份额已经很低了，可以不用支持了，这是有数据有根据的了。需要说明的百度的数据主要基于国内的数据。
 
+## [JSFiddle](http://jsfiddle.net/)
+可以在线运行调试前端代码，可以很方便的导入各种主流的前端框架，甚至可以模拟AJAX请求，导入Github代码等，非常适合在线学/调试代码，也比较适合案例分享，例如把它作为博客的例子进行分享。注册用户可以保存自己的代码。
+类似的工具还有很多，它们各有优缺点，自己体：
+* [CODEPEN](http://codepen.io/)
+* [RunJS](http://runjs.cn/code)
+* [JS BIN](http://jsbin.com/)
+
 ## [jsPerf: JavaScript performance playground](http://jsperf.com/)
 这是一个标准的JS代码性能测试平台，比如如果觉得forEach比for循环快的话，可以在上面创建测试代码进行测试。它上面也有好多其它用户创建的基准测试代码。它比我们在自己的电脑上测试要准确得多，因为本地测试外部干扰因素较多。
+
+## [HTML编码/解码](http://www.convertstring.com/zh_CN/EncodeDecode/HtmlEncode)
+除了HTM编码/解码，还有URL编码/解码，还有字符串大小写处理，哈希函数处理，比如你想要将一个字符串进行MD5编码就很方便。
