@@ -16,6 +16,9 @@
 ## [Viewport Sizes](http://viewportsizes.com/)
 可以查询所有主流移动设备的CSS像素，CSS像不是物理像素，比如iPhone6的物理像素是1334x750，而它的CSS像素是667x375。CSS像素主要是指移动浏览上的分辨率，所以在调试移动Web时就非常需要查各个移动设备的CSS像素。
 
+## [Can I Use](http://caniuse.com/)
+“Can I Use”主要提供了前端相关技术的兼容性查询，包括桌面浏览器和移动浏览器。比如如果输入CSS3 的“border-radius”，它就会列出所有的浏览器对该属性的支持情况，有助于我们判断是否可以使用各种CSS和JS的新的特性。
+
 ## [阿里测](http://alibench.com/)
 可以在线测试网站的性能，主要包括前端性能的方方面面，这个比YSlow或Chrome自带的audit更全名详细。当然阿里测也是基于[WebPagetest](http://www.webpagetest.org/)搭建的，大家也可以看看。
 
